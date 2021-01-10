@@ -1,2 +1,4 @@
 Hello
 its file C1
+This is new file
+C1.txt in main repo
